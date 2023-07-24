@@ -3,10 +3,10 @@ body {
     justify-content: center;
     align-items: center;
     height: 100vh;
-     background-color: yellowgreen;
+     background-color: rgb(39, 154, 160);
 }
 h1 {
-    font-size: 13rem;
+    font-size: 15rem;
 font-family: Montserrat;
 }
 
